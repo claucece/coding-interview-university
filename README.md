@@ -478,6 +478,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Assembly
 - [x] [Assembly tutorial (video)](https://www.youtube.com/watch?v=ViNnfoE56V8&list=PLGLfVvz_LVvQu9IwUcpn8KOZsOvoHx8sU)
+- [ ] [Art of assembly language (book)](https://www.nostarch.com/assembly2.htm)
+- [ ] [Assembly Language Step-by-Step: Programming with Linux (book)](https://www.amazon.com/Assembly-Language-Step-Step-Programming/dp/0470497025/ref=dp_ob_title_bk)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
